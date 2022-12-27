@@ -1,0 +1,27 @@
+body {
+  background-color: white;
+}
+h1 {
+  color: black;
+}
+p {
+  color: black;
+}
+
+.feeling-button {
+  color: black;
+  background-color: yellow;
+}
+
+/* First image (Logo. Full height) */
+.bgimg-1 {
+  background-image: url('./../images/patreon_ns.png');
+  background-color: red;
+  min-height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 700px;
+  opacity: 70%;
+}
